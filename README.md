@@ -7,4 +7,5 @@ https://livelybg.com/
 https://wallpaperaccess.com/futuristic-office
 https://www.youtube.com/ (Hosting Platform)
 https://www.office.com/ (Powerpoint Creation) (With templates)
+https://www.purple-planet.com/
 ```
