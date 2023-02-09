@@ -6,7 +6,8 @@ https://www.e2esoft.com/ivcam/ (With iPhone)
 https://livelybg.com/
 https://wallpaperaccess.com/futuristic-office
 https://www.youtube.com/ (Hosting Platform)
-https://www.office.com/ (Powerpoint Creation) (With templates)
+https://openai.com/
+https://www.office.com/ (Powerpoint Creation) (With templates) (Word to powerpoint AI Gen)
 https://www.purple-planet.com/tech-innovation
 https://www.purple-planet.com/digital-world
 https://www.purple-planet.com/global-tech
