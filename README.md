@@ -13,4 +13,5 @@ https://www.purple-planet.com/digital-world
 https://www.purple-planet.com/global-tech
 https://www.purple-planet.com/modern-technology
 https://explaineverything.com/
+https://vizzy.io/
 ```
